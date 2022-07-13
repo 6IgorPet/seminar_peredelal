@@ -1,0 +1,15 @@
+D:\SEMINAR_09_SUB\zad3\bin\Debug\net6.0\zad3.exe
+D:\SEMINAR_09_SUB\zad3\bin\Debug\net6.0\zad3.deps.json
+D:\SEMINAR_09_SUB\zad3\bin\Debug\net6.0\zad3.runtimeconfig.json
+D:\SEMINAR_09_SUB\zad3\bin\Debug\net6.0\zad3.dll
+D:\SEMINAR_09_SUB\zad3\bin\Debug\net6.0\zad3.pdb
+D:\SEMINAR_09_SUB\zad3\obj\Debug\net6.0\zad3.csproj.AssemblyReference.cache
+D:\SEMINAR_09_SUB\zad3\obj\Debug\net6.0\zad3.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMINAR_09_SUB\zad3\obj\Debug\net6.0\zad3.AssemblyInfoInputs.cache
+D:\SEMINAR_09_SUB\zad3\obj\Debug\net6.0\zad3.AssemblyInfo.cs
+D:\SEMINAR_09_SUB\zad3\obj\Debug\net6.0\zad3.csproj.CoreCompileInputs.cache
+D:\SEMINAR_09_SUB\zad3\obj\Debug\net6.0\zad3.dll
+D:\SEMINAR_09_SUB\zad3\obj\Debug\net6.0\refint\zad3.dll
+D:\SEMINAR_09_SUB\zad3\obj\Debug\net6.0\zad3.pdb
+D:\SEMINAR_09_SUB\zad3\obj\Debug\net6.0\zad3.genruntimeconfig.cache
+D:\SEMINAR_09_SUB\zad3\obj\Debug\net6.0\ref\zad3.dll
