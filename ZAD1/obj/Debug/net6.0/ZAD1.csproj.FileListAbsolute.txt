@@ -1,0 +1,15 @@
+D:\SEMINAR_09_SUB\ZAD1\bin\Debug\net6.0\ZAD1.exe
+D:\SEMINAR_09_SUB\ZAD1\bin\Debug\net6.0\ZAD1.deps.json
+D:\SEMINAR_09_SUB\ZAD1\bin\Debug\net6.0\ZAD1.runtimeconfig.json
+D:\SEMINAR_09_SUB\ZAD1\bin\Debug\net6.0\ZAD1.dll
+D:\SEMINAR_09_SUB\ZAD1\bin\Debug\net6.0\ZAD1.pdb
+D:\SEMINAR_09_SUB\ZAD1\obj\Debug\net6.0\ZAD1.csproj.AssemblyReference.cache
+D:\SEMINAR_09_SUB\ZAD1\obj\Debug\net6.0\ZAD1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMINAR_09_SUB\ZAD1\obj\Debug\net6.0\ZAD1.AssemblyInfoInputs.cache
+D:\SEMINAR_09_SUB\ZAD1\obj\Debug\net6.0\ZAD1.AssemblyInfo.cs
+D:\SEMINAR_09_SUB\ZAD1\obj\Debug\net6.0\ZAD1.csproj.CoreCompileInputs.cache
+D:\SEMINAR_09_SUB\ZAD1\obj\Debug\net6.0\ZAD1.dll
+D:\SEMINAR_09_SUB\ZAD1\obj\Debug\net6.0\refint\ZAD1.dll
+D:\SEMINAR_09_SUB\ZAD1\obj\Debug\net6.0\ZAD1.pdb
+D:\SEMINAR_09_SUB\ZAD1\obj\Debug\net6.0\ZAD1.genruntimeconfig.cache
+D:\SEMINAR_09_SUB\ZAD1\obj\Debug\net6.0\ref\ZAD1.dll
